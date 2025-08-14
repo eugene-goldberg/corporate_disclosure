@@ -1,0 +1,23 @@
+# FastAPI and web server dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# Database and ORM
+sqlalchemy==2.0.41
+pymysql==1.1.1
+
+# LangChain for AI functionality
+langchain-community>=0.3.27
+langchain-openai>=0.3.28
+langchain-core>=0.3.70
+
+# Environment and utilities
+python-dotenv==1.0.1
+
+# Optional: For better performance
+httpx==0.25.2
+aiofiles==23.2.1
+
+# Optional: For API documentation
+python-multipart==0.0.6
