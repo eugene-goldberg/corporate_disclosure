@@ -1,0 +1,185 @@
+{
+  "general_disclosures_governance":
+    [
+    {
+      "question": "How are the administrative, management, and supervisory bodies informed about sustainability matters, and which matters were addressed during the reporting period? [1]"
+    },
+    {
+      "question": "How is sustainability-related performance integrated into incentive schemes for members of the administrative, management, and supervisory bodies? [1]"
+    },
+    {
+      "question": "Provide a statement and mapping of the due diligence process undertaken by the company regarding sustainability matters. [1]"
+    },
+    {
+      "question": "What are the main features of the risk management and internal control systems in relation to the sustainability reporting process? [1]"
+    }
+  ],
+  "general_disclosures_strategy":
+    [
+    {
+      "question": "How are the interests and views of stakeholders taken into account in the company's strategy and business model? [1]"
+    },
+    {
+      "question": "What are the company's material impacts, risks, and opportunities (IROs), and how do they interact with and influence the overall strategy and business model? [1]"
+    }
+  ],
+  "general_disclosures_impact_risk_opportunity_management":
+    [
+    {
+      "question": "Which ESRS Disclosure Requirements are covered in the sustainability statement, and which topics have been omitted as non-material? [1]"
+    },
+    {
+      "question": "What policies have been adopted to manage material sustainability matters? [1]"
+    },
+    {
+      "question": "What are the key actions and resources allocated to manage material sustainability matters? [1]"
+    }
+  ],
+  "general_disclosures_metrics_and_targets":
+    [
+    {
+      "question": "What measurable, time-bound targets have been set to track the effectiveness of policies and actions related to material sustainability matters? [1]"
+    }
+  ],
+  "environmental_climate_change":
+    [
+    {
+      "question": "What policies have been adopted to manage material impacts, risks, and opportunities related to climate change mitigation and adaptation? [1]"
+    },
+    {
+      "question": "What are the key actions and resources allocated to implement climate change policies? [1]"
+    },
+    {
+      "question": "What targets have been set related to climate change mitigation and adaptation, including GHG emission reduction targets? [1]"
+    },
+    {
+      "question": "What is the company's total energy consumption and energy mix, broken down by renewable and non-renewable sources? [1]"
+    },
+    {
+      "question": "What are the gross Scope 1, Scope 2, and Scope 3 greenhouse gas (GHG) emissions in metric tonnes of CO2 equivalent? [1]"
+    },
+    {
+      "question": "Disclose information on GHG removals and any GHG mitigation projects financed through carbon credits. [1]"
+    },
+    {
+      "question": "Does the company apply internal carbon pricing schemes, and if so, how do they support decision-making? [1]"
+    },
+    {
+      "question": "What are the anticipated financial effects from material physical and transition risks and potential climate-related opportunities? [1]"
+    }
+  ],
+  "environmental_pollution":
+    [
+    {
+      "question": "What targets have been set for the prevention and reduction of pollution? [3]"
+    },
+    {
+      "question": "Disclose information on the production, use, and management of substances of concern and microplastics. [3]"
+    },
+    {
+      "question": "What are the anticipated financial effects from material pollution-related risks and opportunities? [2]"
+    }
+  ],
+  "environmental_water_and_marine_resources":
+    [
+    {
+      "question": "What targets have been set related to water consumption and impacts on marine resources? [3]"
+    },
+    {
+      "question": "Disclose information on water consumption, withdrawal, and discharge, particularly in areas of high water stress. [3]"
+    },
+    {
+      "question": "What are the anticipated financial effects from material risks and opportunities related to water and marine resources? [2]"
+    }
+  ],
+  "environmental_biodiversity_and_ecosystems":
+    [
+    {
+      "question": "What targets have been set related to preventing biodiversity loss and restoring ecosystems? [3]"
+    },
+    {
+      "question": "Describe the company's material impacts and dependencies on biodiversity and ecosystems, including any operations in or near biodiversity-sensitive areas. [3]"
+    },
+    {
+      "question": "What are the anticipated financial effects from material risks and opportunities related to biodiversity and ecosystems? [2]"
+    }
+  ],
+  "environmental_resource_use_and_circular_economy":
+    [
+    {
+      "question": "Describe the actions and resources related to improving resource use and advancing the circular economy. [1]"
+    },
+    {
+      "question": "What targets have been set related to resource use and circular economy, such as increasing circular material use and minimizing waste? [1]"
+    },
+    {
+      "question": "Disclose information on material resource inflows, including the weight of renewable vs. non-renewable and virgin vs. recycled materials. [1]"
+    },
+    {
+      "question": "Disclose information on material resource outflows, including products, materials, and waste generated, and their destination (e.g., reuse, recycling, disposal). [1]"
+    },
+    {
+      "question": "What are the anticipated financial effects from material risks and opportunities related to resource use and the circular economy? [1]"
+    }
+  ],
+  "social_own_workforce":
+    [
+    {
+      "question": "What are the processes for engaging with the own workforce and their representatives about sustainability impacts?"
+    },
+    {
+      "question": "What channels exist for workers to raise concerns, and what are the processes to remediate negative impacts?"
+    },
+    {
+      "question": "Describe actions taken to manage material impacts, mitigate risks, and pursue opportunities related to the own workforce."
+    },
+    {
+      "question": "Provide key characteristics of the own workforce, including a breakdown of employees and non-employee workers by gender, region, and contract type."
+    },
+    {
+      "question": "Disclose information on social dialogue, including the percentage of workers covered by collective bargaining agreements."
+    },
+    {
+      "question": "Disclose information on health and safety, diversity, the gender pay gap, and training and skills development."
+    }
+  ],
+  "social_workers_in_the_value_chain":
+    [
+    {
+      "question": "What are the processes for engaging with value chain workers about sustainability impacts and for remediating negative impacts? [4]"
+    },
+    {
+      "question": "Describe actions taken to manage material impacts, risks, and opportunities related to workers in the value chain. [2]"
+    }
+  ],
+  "social_affected_communities":
+    [
+    {
+      "question": "How does the company engage with affected communities to manage impacts, and what processes exist for remediation? [2]"
+    },
+    {
+      "question": "Describe actions taken to manage material impacts, risks, and opportunities related to affected communities. [2]"
+    }
+  ],
+  "social_consumers_and_end_users":
+    [
+    {
+      "question": "Describe actions taken to manage material impacts, risks, and opportunities related to consumers and end-users. [2]"
+    }
+  ],
+  "governance_business_conduct":
+    [
+    {
+      "question": "How does the company manage relationships with suppliers, including practices for responsible sourcing and fair payment? [1]"
+    },
+    {
+      "question": "Disclose information on political engagement and lobbying activities, including financial contributions and the main topics addressed. [1]"
+    },
+    {
+      "question": "Disclose the number of convictions and fines for violations of anti-corruption and anti-bribery laws, and any confirmed incidents. [1]"
+    },
+    {
+      "question": "Disclose information on payment practices, particularly regarding the average time to pay invoices and late payments to small and medium-sized enterprises (SMEs). [1]"
+    }
+  ]
+}
