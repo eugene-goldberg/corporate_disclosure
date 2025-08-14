@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-08-14T07:28:07.003247",
+  "needs_data": {
+    "stakeholder_engagement": true,
+    "sustainability_targets": true,
+    "executive_compensation": false,
+    "training_programs": false
+  },
+  "tested_questions": [
+    {
+      "category": "general_disclosures_governance",
+      "question": "How is sustainability-related performance integrated into incentive schemes for administrative, management, and supervisory bodies? [2]"
+    },
+    {
+      "category": "general_disclosures_strategy",
+      "question": "How are the interests and views of stakeholders taken into account in the company's strategy?"
+    },
+    {
+      "category": "general_disclosures_metrics_and_targets",
+      "question": "What measurable, time-bound targets have been set to track the effectiveness of sustainability policies and actions?"
+    },
+    {
+      "category": "environmental_climate_change",
+      "question": "What targets have been set related to climate change mitigation and adaptation, and what is the progress towards achieving these targets?"
+    }
+  ]
+}
